@@ -1,4 +1,4 @@
-# 🌱 EPOCH 5th Beginner Session
+# 🌱 EPOCH 6th Beginner Session
 > 👥 Members: 서정인, 이동근, 황건호
 
 > 진행 기간: 2026. 02. 26 ~ 2026. 03. 23
