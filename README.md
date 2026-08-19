@@ -9,7 +9,7 @@
 
 **본 스터디의 Notion Page는 아래 링크를 통해 제공하고 있습니다.**
 
-🔗 (추가하기)
+🔗 https://app.notion.com/p/Beginner-Session-6th-3c10de90854f809e91f2c74eac811d1a?source=copy_link
 ## 코드 제출 방식
 1️⃣ 교재 실습
 
